@@ -1,0 +1,24 @@
+{
+  "project": "AI Data Analyst V1",
+  "supported_problem_types": [
+    "classification",
+    "regression",
+    "clustering",
+    "anomaly_detection"
+  ],
+  "input_formats": [
+    "csv",
+    "xlsx",
+    "parquet"
+  ],
+  "v1_excluded": [
+    "time_series",
+    "vision",
+    "nlp_training",
+    "spark",
+    "kafka",
+    "production_writes"
+  ],
+  "current_task": "TASK-001",
+  "task_count": 10
+}
